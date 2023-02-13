@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Sebastian-Sosa-Portafolio/static/css/main.2ef2a2e2.css",
+    "main.js": "/Sebastian-Sosa-Portafolio/static/js/main.15da8efa.js",
+    "static/media/Slayer.mp3": "/Sebastian-Sosa-Portafolio/static/media/Slayer.6d0cda911a4ffc808845.mp3",
+    "static/media/pngegg.png": "/Sebastian-Sosa-Portafolio/static/media/pngegg.41b4b419597f76b53a58.png",
+    "static/media/javascript.pdf": "/Sebastian-Sosa-Portafolio/static/media/javascript.73f31eab2af5b7df6f35.pdf",
+    "static/media/sebastian2.png": "/Sebastian-Sosa-Portafolio/static/media/sebastian2.1b0be6d2a76ca06cab2a.png",
+    "index.html": "/Sebastian-Sosa-Portafolio/index.html",
+    "main.2ef2a2e2.css.map": "/Sebastian-Sosa-Portafolio/static/css/main.2ef2a2e2.css.map",
+    "main.15da8efa.js.map": "/Sebastian-Sosa-Portafolio/static/js/main.15da8efa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ef2a2e2.css",
+    "static/js/main.15da8efa.js"
+  ]
+}
